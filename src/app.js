@@ -6,7 +6,7 @@ const {
   ButtonBuilder, 
   ButtonStyle,
   PermissionsBitField
-} = require("discord.js");
+} = from "discord.js";
 
 const TOKEN = "MTQ5MDM4NDcwOTc1Mjk3OTY2Nw.GMNbgR.xFswLCBZtz8yAf1rCIi4RjoRb81uCZ11VIn-Vw";
 
